@@ -1,0 +1,1 @@
+The 1602 LCD I2C worked at first but after 15 minutes the displayed was gibberish. I switched to a new one and it works fine. The screen lights up but only states 0 on the right on the first line and another 0 on the right second line.
